@@ -4,6 +4,8 @@ This project is about predicting the house prices in Iowa using Python and Machi
 
 Below are some of the highlights of this project:
 
-● Explored and analyzed the housing dataset to find the key features that influenced the sales price of the houses
-● Developed machine learning algorithm to predict the prices
-● Examined Feature Importance using Lasso Regression and Random Forest Regression and determined the various factors affecting the prices of the houses
+● Housing datasets are explored and analyzed in detail to find the key features that influenced the sales price of the houses
+
+● Machine Learning algorithms are developed to predict the house prices
+
+● Feature Importance is examined using Lasso Regression and Random Forest Regression and various factors affecting the prices of houses are determined
